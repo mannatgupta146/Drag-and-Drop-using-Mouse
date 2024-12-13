@@ -41,9 +41,7 @@ This project is a simple drag-and-drop game where users can interactively move c
 - **Boxes not dragging**: Ensure that your browser supports drag-and-drop functionality.
 - **Styling issues**: Double-check the CSS styles for proper box sizing and positioning.
 - **JavaScript errors**: Make sure the `script.js` file is correctly linked and loaded in your HTML.
-
-## Contribution
+-----
 
 Contributions are welcome! If you find any issues or want to add new features, feel free to fork this repository and submit a pull request.
------
 
